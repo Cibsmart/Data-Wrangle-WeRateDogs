@@ -1,0 +1,6 @@
+.DS_Store
+.ipynb_checkpoints/
+images/
+reports/*.pages
+reports/*.ipynb
+wrangling_act-personal.ipynb
